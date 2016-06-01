@@ -1,4 +1,4 @@
-# omaha-mhps
+# Omaha Mental Health User Group (OMHUG)
 Repository of mental health resources, both locally in Omaha and online.
 
 Here are some useful links to start off with:
